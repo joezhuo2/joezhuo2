@@ -13,7 +13,7 @@ self-taught in Java, C#, JavaScript, and TypeScript through building real projec
 - [anamnesis](https://github.com/joezhuo2/Anamnesis) - wave-based RPG game in Unity
 - [crystal-os](https://github.com/joezhuo2/crystal-os) — personal productivity dashboard
 
-** Other projects **
+**Other projects**
 - [ingredient-tracker](https://github.com/joezhuo2/ingredient-tracker) — Wynncraft farming optimizer (React/TS/Supabase)
 - [Unity Debug Log Viewer](https://github.com/joezhuo2/unity-debug-log-viewer)
 
