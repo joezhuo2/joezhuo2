@@ -7,7 +7,7 @@ self-taught in Java, C#, JavaScript, and TypeScript through building real projec
 - 🎮 Also working on **Anamnesis** — a wave-based RPG in Unity/C# with a full projectile 
   and phase-based enemy AI system (~7k LOC)
 
-**Tech stack:** Java · C# · JavaScript/TypeScript · React · Unity · Supabase
+**Tech stack:** Java · C# · C++ · JavaScript · TypeScript · React · Unity
 
 **Featured projects:**
 - [anamnesis](https://github.com/joezhuo2/Anamnesis) - wave-based RPG game in Unity
