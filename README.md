@@ -15,6 +15,6 @@ self-taught in Java, C#, JavaScript, and TypeScript through building real projec
 - [ingredient-tracker](https://github.com/joezhuo2/ingredient-tracker) - Wynncraft farming optimizer
 
 **Other projects**
-- [unity-debug-log-viewer](https://github.com/joezhuo2/unity-debug-log-viewer), [mini-redis](https://github.com/joezhuo2/mini-redis), [clashmate](https://github.com/SaifulShaik/Clashmate), [supermarket-simulator](https://github.com/SaifulShaik/Supermarket-Simulation)
+- [unity-debug-log-viewer](https://github.com/joezhuo2/unity-debug-log-viewer), [mini-redis](https://github.com/joezhuo2/mini-redis), [clashmate](https://github.com/SaifulShaik/Clashmate), [supermarket-simulator](https://github.com/SaifulShaik/Supermarket-Simulation), [object-pool-linter](https://github.com/joezhuo2/ObjectPoolLinter)
 
 📫 joezhuo08@gmail.com
