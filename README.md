@@ -3,7 +3,7 @@
 Incoming Computer Engineering student at the University of Waterloo, 
 self-taught in Java, C#, JavaScript, and TypeScript through building real projects.
 
-- 🎮 Currently working on [**Anamnesis**]((https://github.com/joezhuo2/Anamnesis) — a wave-based RPG in Unity/C# with a full projectile 
+- 🎮 Currently working on [**Anamnesis**](https://github.com/joezhuo2/Anamnesis) — a wave-based RPG in Unity/C# with a full projectile 
   and phase-based enemy AI system (~7.5k LOC)
 
 **Tech stack:** Java · C# · C++ · JavaScript · TypeScript · React · Unity
