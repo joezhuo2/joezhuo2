@@ -1,6 +1,10 @@
 Hi, I'm Joe 👋
 
-Computer Engineering student @ **University of Waterloo**, building software with C#, C++, CUDA, Rust, Java, and TypeScript. I'm most interested in systems and performance engineering: GPU inference, low-latency code, and profiling-driven optimization.
+Computer Engineering student @ **University of Waterloo.** I'm most interested in systems and performance engineering: GPU inference, low-latency code, and profiling-driven optimization.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cuda,rust,cs,java,ts,react,vite,tailwind,unity,postgres,supabase&theme=dark" alt="C++, CUDA, Rust, C#, Java, TypeScript, React, Vite, Tailwind, Unity, PostgreSQL, Supabase" />
+</p>
 
 ## Currently Building
 
