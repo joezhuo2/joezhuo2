@@ -24,3 +24,12 @@ Computer Engineering student @ **University of Waterloo.** I'm most interested i
 - 🪵 **unity-debug-log-viewer**: Lightweight in-game log viewing utility for Unity.
 - ♟️ **clashmate**: Java-based chess variant engine featuring per-piece active abilities.
 - 🛒 **supermarket-simulation**: Discrete-event simulation modeling customer queues and checkout operations.
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoeZhuo&show_icons=true&include_all_commits=true&theme=github_dark&title_color=39d353&icon_color=39d353&border_color=30363d" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeZhuo&layout=compact&langs_count=6&theme=github_dark&title_color=39d353&border_color=30363d" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JoeZhuo&background=0d1117&border=30363d&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
+</p>
