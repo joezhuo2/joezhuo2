@@ -3,7 +3,7 @@ Hi, I'm Joe 👋
 Computer Engineering student @ **University of Waterloo.** I'm most interested in systems and performance engineering: GPU inference, low-latency code, and profiling-driven optimization.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cuda,rust,cs,java,ts,react,vite,tailwind,unity,postgres,supabase&theme=dark" alt="C++, CUDA, Rust, C#, Java, TypeScript, React, Vite, Tailwind, Unity, PostgreSQL, Supabase" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,cs,java,ts,js,py,pytorch,sql,svelte,react,vite,tailwind,unity,postgres,supabase&theme=dark" alt="C++, Rust, C#, Java, TypeScript, JavaScript, Python, PyTorch, SQL, Svelte, React, Vite, Tailwind, Unity, PostgreSQL, Supabase" />
 </p>
 
 ## Currently Building
