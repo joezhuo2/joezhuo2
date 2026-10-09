@@ -26,7 +26,7 @@ Computer Engineering student @ **University of Waterloo.** I'm most interested i
 - 🛒 [**supermarket-simulation**](https://github.com/joezhuo2/Supermarket-Simulation): Discrete-event simulation modeling customer queues and checkout operations.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joezhuo2&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&border_color=30363d" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joezhuo2&show_icons=true&count_private=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&border_color=30363d" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joezhuo2&layout=compact&langs_count=6&theme=github_dark&title_color=38bdf8&border_color=30363d" alt="Top languages" />
 </p>
 
