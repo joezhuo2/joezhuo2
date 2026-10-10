@@ -10,7 +10,7 @@ Computer Engineering student @ **University of Waterloo.** I'm most interested i
 
 - 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA LLM inference engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
 - ⚔️ [**Anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based Unity/C# RPG featuring custom projectile physics and state-driven enemy AI.
-- ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard integrating Google Calendar OAuth and local Obsidian vaults.
+- ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard integrating Google Calendar OAuth, local Obsidian vaults, and many other features.
 
 ## Featured Projects
 
