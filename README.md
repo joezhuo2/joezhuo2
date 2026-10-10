@@ -17,10 +17,10 @@ Computer Engineering student @ **University of Waterloo.** I'm most interested i
 - 🛠️ [**ObjectPoolLinter**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code. [source](https://github.com/joezhuo2/ObjectPoolLinter)
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight Rust/Tauri system tray stock ticker with a chart window behind a global hotkey.
 - 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top Rust/Tauri + Svelte desktop companion for Claude Code that tracks live sessions, handles permission prompts, and shows token and resource usage over local IPC.
+- 🌾 [**ingredient-tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for tracking Wynncraft MMORPG drop rates and market values.
 
 ## Other Projects
 
-- 🌾 [**ingredient-tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for tracking Wynncraft MMORPG drop rates and market values.
 - 🪵 [**unity-debug-log-viewer**](https://github.com/joezhuo2/unity-debug-log-viewer): Lightweight in-game log viewing utility for Unity.
 - ♟️ [**clashmate**](https://github.com/joezhuo2/Clashmate): Java-based chess variant engine featuring per-piece active abilities.
 - 🛒 [**supermarket-simulation**](https://github.com/joezhuo2/Supermarket-Simulation): Discrete-event simulation modeling customer queues and checkout operations.
