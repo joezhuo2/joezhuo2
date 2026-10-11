@@ -30,8 +30,7 @@ Computer Engineering student @ **University of Waterloo.** I'm most interested i
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joezhuo2&color=38bdf8&style=flat&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/badge/github-followers-0d1117?style=flat&logo=github&logoColor=white" alt="Followers label" />
-  <img src="https://img.shields.io/github/followers/joezhuo2?style=flat&label=&color=38bdf8" alt="Follower count" />
+  <img src="https://img.shields.io/github/followers/joezhuo2?style=flat&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=38bdf8" alt="GitHub Followers" />
 </p>
 
 <p align="center">
