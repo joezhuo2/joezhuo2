@@ -25,6 +25,8 @@ Computer Engineering student @ **University of Waterloo.** I'm most interested i
 - ♟️ [**clashmate**](https://github.com/joezhuo2/Clashmate): Java-based chess variant engine featuring per-piece active abilities.
 - 🛒 [**supermarket-simulation**](https://github.com/joezhuo2/Supermarket-Simulation): Discrete-event simulation modeling customer queues and checkout operations.
 
+## GitHub Stats
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=joezhuo2&show_icons=true&count_private=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&border_color=30363d" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joezhuo2&layout=compact&langs_count=6&theme=github_dark&title_color=38bdf8&border_color=30363d" alt="Top languages" />
@@ -32,4 +34,8 @@ Computer Engineering student @ **University of Waterloo.** I'm most interested i
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joezhuo2&background=0d1117&border=30363d&count_private=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joezhuo2&color=38bdf8&style=flat&label=Profile+Views" alt="Profile views" />
 </p>
