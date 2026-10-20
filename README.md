@@ -39,3 +39,5 @@ Computer Engineering student @ **University of Waterloo.** I'm most interested i
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joezhuo2&background=0d1117&border=30363d&count_private=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
 </p>
+
+![Snake Animation](https://raw.githubusercontent.com/joezhuo2/joezhuo2/output/github-contribution-grid-snake-dark.svg)
