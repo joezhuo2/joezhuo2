@@ -1,8 +1,11 @@
-Hi, I'm Joe 👋
+<img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=joezhuo2&show_icons=true&count_private=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&border_color=30363d" alt="GitHub stats" />
 
-Computer Engineering student @ **University of Waterloo.** I'm most interested in systems and performance engineering: GPU inference, low-latency code, and profiling-driven optimization.
+Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Waterloo.
+* 🚀 **Focus:** Systems programming and AI/ML inference systems.
+* 🛠️ **Projects:** Working with CUDA/Triton kernels, C++, and C#.
+* ⚡ **Interests:** High-performance computing and automation tools.
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,cs,java,react,unity&theme=dark" alt="C++, Rust, C#, Java, React, Unity" />
+<br clear="right" />
 
 ## Currently Building
 
@@ -23,21 +26,5 @@ Computer Engineering student @ **University of Waterloo.** I'm most interested i
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agent framework for Triton kernel optimization with multi-lens human-in-the-loop oversight and automated hypothesis verification. (built for the HTV11 Papiers Autoresearch Challenge)
 - 🌾 [**ingredient-tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for tracking Wynncraft MMORPG drop rates and market values.
 
-## GitHub Stats
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joezhuo2&color=38bdf8&style=flat&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/joezhuo2?style=flat&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=38bdf8" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joezhuo2&show_icons=true&count_private=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&border_color=30363d" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joezhuo2&layout=compact&langs_count=6&theme=github_dark&title_color=38bdf8&border_color=30363d" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joezhuo2&background=0d1117&border=30363d&count_private=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
-</p>
-
+---
 ![Snake Animation](https://raw.githubusercontent.com/joezhuo2/joezhuo2/output/github-contribution-grid-snake-dark.svg)
