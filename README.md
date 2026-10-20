@@ -1,9 +1,9 @@
 <img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=joezhuo2&show_icons=true&count_private=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&border_color=30363d" alt="GitHub stats" />
 
 Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Waterloo.
-* 🚀 **Focus:** Systems programming and AI/ML inference systems.
-* 🛠️ **Projects:** Working with CUDA/Triton kernels, C++, and C#.
-* ⚡ **Interests:** High-performance computing and automation tools.
+* 🚀 **Focus:** AI/ML inference systems.
+* 🛠️ **Projects:** Working with CUDA, C++, and C#.
+* ⚡ **Interests:** High-performance computing.
 
 <br clear="right" />
 
