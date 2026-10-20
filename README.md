@@ -2,9 +2,7 @@ Hi, I'm Joe 👋
 
 Computer Engineering student @ **University of Waterloo.** I'm most interested in systems and performance engineering: GPU inference, low-latency code, and profiling-driven optimization.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,cs,java,react,unity&theme=dark" alt="C++, Rust, C#, Java, React, Unity" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,rust,cs,java,react,unity&theme=dark" alt="C++, Rust, C#, Java, React, Unity" />
 
 ## Currently Building
 
