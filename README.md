@@ -22,7 +22,7 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 ## Other Projects
 
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight Rust/Tauri system tray stock ticker with a chart window behind a global hotkey.
-- 🏝️ [**islet**](https://github.com/joezhuo2/islet): Rust/Tauri + Svelte desktop companion for Claude Code that tracks live sessions, handles permissions, and shows token usage.
+- 🏝️ [**islet**](https://github.com/joezhuo2/islet): Rust/Tauri desktop companion for Claude Code that tracks live sessions, handles permissions, and shows token usage.
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous autoresearch framework built for the HTV11 Papiers Autoresearch Challenge.
 
 ---
