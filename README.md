@@ -1,9 +1,9 @@
-<img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=joezhuo2&show_icons=true&count_private=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&border_color=30363d" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=joezhuo2&show_icons=true&include_all_commits=true&theme=react" align="right" alt="stats" width="400" />
 
 Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Waterloo.
-* 🚀 **Focus:** AI/ML inference systems.
-* 🛠️ **Projects:** Working with CUDA, C++, and C#.
-* ⚡ **Interests:** High-performance computing, automation, and game dev.
+> 🚀 **Focus:** AI/ML inference systems.\
+> 🛠️ **Projects:** Working with CUDA, C++, and C#.\
+> ⚡ **Interests:** High-performance computing, automation, and game dev.
 
 <br clear="right" />
 
