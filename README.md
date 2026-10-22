@@ -3,7 +3,7 @@
 Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Waterloo.
 > 🚀 **Focus:** AI/ML inference systems.\
 > 🛠️ **Projects:** Working with CUDA, C++, and C#.\
-> ⚡ **Interests:** High-performance computing, automation, and game dev.
+> ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
 
 <br clear="right" />
 
