@@ -1,4 +1,4 @@
-<img src="https://github-stats-extended.vercel.app/api?username=joezhuo2&show_icons=true&include_all_commits=true&theme=react" align="right" alt="stats" width="400" />
+<img src="https://github-stats-extended.vercel.app/api?username=joezhuo2&include_all_commits=true&theme=github_dark_dimmed" align="right" alt="stats" width="400" />
 
 Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Waterloo.
 > 🚀 **Focus:** AI/ML inference systems.\
