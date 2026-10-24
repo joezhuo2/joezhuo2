@@ -16,13 +16,13 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 ## Featured Projects
 
 - 🛠️ [**ObjectPoolLinter (v2.0.0)**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code. [source](https://github.com/joezhuo2/ObjectPoolLinter)
-- ⚙️ [**Gearshift**](https://github.com/joezhuo2/gearshift): Autonomous model router & mid-task queue manager for Claude Code.
-- 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, open-source dynamic island styled system monitor that expands into a compact dashboard on hover.
+- 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous autoresearch framework built for the HTV11 Papiers Autoresearch Challenge.
 
 ## Other Projects
 
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight Rust/Tauri system tray stock ticker with a chart window behind a global hotkey.
-- 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous autoresearch framework built for the HTV11 Papiers Autoresearch Challenge.
+- ⚙️ [**Gearshift**](https://github.com/joezhuo2/gearshift): Autonomous model router & mid-task queue manager for Claude Code.
+- 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, open-source dynamic island styled system monitor that expands into a compact dashboard on hover.
 
 ---
 ![Snake Animation](https://raw.githubusercontent.com/joezhuo2/joezhuo2/output/github-contribution-grid-snake-dark.svg)
