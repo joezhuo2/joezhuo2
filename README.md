@@ -1,41 +1,28 @@
-Hi, I'm Joe 👋
+<img src="https://github-stats-extended.vercel.app/api?username=joezhuo2&include_all_commits=true&theme=github_dark_dimmed" align="right" alt="stats" width="400" />
 
-Computer Engineering student @ **University of Waterloo.** I'm most interested in systems and performance engineering: GPU inference, low-latency code, and profiling-driven optimization.
+Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Waterloo.
+> 🚀 **Focus:** AI/ML inference systems.\
+> 🛠️ **Projects:** Working with CUDA, C++, and C#.\
+> ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,cs,java,react,unity&theme=dark" alt="C++, Rust, C#, Java, React, Unity" />
+<br clear="right" />
 
 ## Currently Building
 
-- 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA LLM inference engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
+- 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
 - ⚔️ [**Anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based Unity/C# RPG featuring custom projectile physics and state-driven enemy AI.
 - ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard integrating Google Calendar OAuth, local Obsidian vaults, and many other features.
 
 ## Featured Projects
 
 - 🛠️ [**ObjectPoolLinter (v2.0.0)**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code. [source](https://github.com/joezhuo2/ObjectPoolLinter)
-- ⚙️ [**Gearshift**](https://github.com/joezhuo2/gearshift): Autonomous model router & mid-task queue manager for Claude Code that dynamically redirects execution based on task difficulty and handles live interrupts over IPC.
-- 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, open-source dynamic island styled system monitor that expands into a compact dashboard on hover.
+- 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous autoresearch framework built for the HTV11 Papiers Autoresearch Challenge.
 
 ## Other Projects
 
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight Rust/Tauri system tray stock ticker with a chart window behind a global hotkey.
-- 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top Rust/Tauri + Svelte desktop companion for Claude Code that tracks live sessions, handles permission prompts, and shows token and resource usage over local IPC.
-- 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agent framework for Triton kernel optimization with multi-lens human-in-the-loop oversight and automated hypothesis verification. (built for the HTV11 Papiers Autoresearch Challenge)
-- 🌾 [**ingredient-tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for tracking Wynncraft MMORPG drop rates and market values.
+- ⚙️ [**Gearshift**](https://github.com/joezhuo2/gearshift): Autonomous model router & mid-task queue manager for Claude Code.
+- 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, open-source dynamic island styled system monitor that expands into a compact dashboard on hover.
 
-## GitHub Stats
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joezhuo2&color=38bdf8&style=flat&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/joezhuo2?style=flat&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=38bdf8" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joezhuo2&show_icons=true&count_private=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&border_color=30363d" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joezhuo2&layout=compact&langs_count=6&theme=github_dark&title_color=38bdf8&border_color=30363d" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joezhuo2&background=0d1117&border=30363d&count_private=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
-</p>
+---
+![Snake Animation](https://raw.githubusercontent.com/joezhuo2/joezhuo2/output/github-contribution-grid-snake-dark.svg)
