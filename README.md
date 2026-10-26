@@ -10,11 +10,11 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 ## Currently Building
 
 - 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
-- ⚔️ [**Anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based Unity/C# RPG featuring custom projectile physics and state-driven enemy AI.
 - ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard integrating Google Calendar OAuth, local Obsidian vaults, and many other features.
 
 ## Featured Projects
 
+- ⚔️ [**Anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based Unity/C# RPG featuring custom projectile physics and state-driven enemy AI.
 - 🛠️ [**ObjectPoolLinter (v2.0.0)**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code. [source](https://github.com/joezhuo2/ObjectPoolLinter)
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous autoresearch framework built for the HTV11 Papiers Autoresearch Challenge.
 
