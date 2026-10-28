@@ -22,7 +22,6 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): A desktop pet that monitors your Claude Code sessions and alerts you to approvals and completed tasks.
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight Rust/Tauri system tray stock ticker with a chart window behind a global hotkey.
-- ⚙️ [**Gearshift**](https://github.com/joezhuo2/gearshift): Autonomous model router & mid-task queue manager for Claude Code.
 - 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, open-source dynamic island styled system monitor that expands into a compact dashboard on hover.
 
 ---
