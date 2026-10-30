@@ -22,7 +22,7 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 - ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard integrating Google Calendar OAuth, local Obsidian vaults, and many other features.
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): A desktop pet that monitors your Claude Code sessions and alerts you to approvals and completed tasks.
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight Rust/Tauri system tray stock ticker with a chart window behind a global hotkey.
-- 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, open-source dynamic island styled system monitor that expands into a compact dashboard on hover.
+- 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, dynamic island styled system monitor that expands into a compact dashboard on hover.
 - ⚽ [**money-makers (Microsoft hackathon entry)**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
 
 ## Other Projects
