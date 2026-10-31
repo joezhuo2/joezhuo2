@@ -26,6 +26,7 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 - ⚽ [**money-makers (Microsoft hackathon entry)**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
 
 ## Other Projects
+- 🎯 [**delegate-skills**](https://github.com/joezhuo2/delegate-skills): Subagent routing across multiple AI providers for Claude Code.
 - ⚙️ [**gearshift**](https://github.com/joezhuo2/gearshift): Background workflow manager and dynamic model router for Claude Code CLI.
 - 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top desktop companion tracking active Claude Code CLI sessions.
 - 📜 [**unity debug log viewer**](https://github.com/joezhuo2/unity-debug-log-viewer): Lightweight console utility for runtime Unity log inspection.
