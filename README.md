@@ -1,3 +1,4 @@
+<img src="profile/stats.svg?v=1" align="right" alt="stats" width="400" />
 
 Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Waterloo.
 > 🚀 **Focus:** AI/ML inference systems.\
