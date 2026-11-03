@@ -1,4 +1,4 @@
-<img src="profile/stats.svg" align="right" alt="stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=CrystalFlux&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&token=YOUR_PAT_HERE" align="right" alt="CrystalFlux's GitHub Stats" width="400" />
 
 Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Waterloo.
 > 🚀 **Focus:** AI/ML inference systems.\
