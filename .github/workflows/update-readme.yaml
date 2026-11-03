@@ -18,13 +18,10 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed
-          path: profile/stats.svg
-          token: ${{ secrets.PAT_TOKEN }}
+      - name: Fetch stats card from website
+        run: |
+          mkdir -p profile
+          curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed" -o profile/stats.svg
 
       - name: Commit cards
         run: |
