@@ -34,6 +34,4 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 - 🛒 [**Supermarket Simulation**](https://github.com/joezhuo2/Supermarket-Simulation): Java simulation analyzing customer queue behavior and flow.
 - 🌿 [**Wynncraft Ingredient Tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for MMORPG drop yields and route optimization.
 
----
 ![My Git Koi](koi/koi.gif)
-![Snake Animation](https://raw.githubusercontent.com/joezhuo2/joezhuo2/output/github-contribution-grid-snake-dark.svg)
