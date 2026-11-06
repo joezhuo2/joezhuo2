@@ -1,35 +1,30 @@
-name: Generate Git-Koi Graph
+name: Generate Git Koi
 
 on:
   schedule:
-    # Runs automatically every day at midnight UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Enables manual trigger from the GitHub Actions UI
-  push:
-    branches:
-      - main
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  koi:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # grants write permission to commit back to your repository
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # required to read commit history
 
-      - name: Generate Git-Koi SVG
+      - name: Generate Git Koi
         uses: yalongwastaken/git-koi@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          login: ${{ github.repository_owner }}
+          body: white # Options: white, black, asagi, tea, gold, platinum
+          output-dir: koi
 
-      - name: Commit and push generated graph
+      - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add git-koi.svg || true
-          git commit -m "chore: update git-koi graph [skip ci]" || exit 0
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add koi/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update git-koi profile art" && git push)
