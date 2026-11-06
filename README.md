@@ -35,5 +35,5 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 - 🌿 [**Wynncraft Ingredient Tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for MMORPG drop yields and route optimization.
 
 ---
-![Git Koi Graph](./git-koi.svg)
+![Git Koi Graph](https://raw.githubusercontent.com/joezhuo2/joezhuo2/main/git-koi.svg)
 ![Snake Animation](https://raw.githubusercontent.com/joezhuo2/joezhuo2/output/github-contribution-grid-snake-dark.svg)
