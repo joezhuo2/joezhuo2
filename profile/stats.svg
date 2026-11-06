@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">CrystalFlux&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 22, Total Commits  : 4046, Total PRs: 467, Total Issues: 313, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 22, Total Commits  : 4047, Total PRs: 467, Total Issues: 313, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.71357591197263;
+        stroke-dashoffset: 88.71181881309398;
       }
     }
   
