@@ -25,4 +25,5 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 - 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, open-source dynamic island styled system monitor that expands into a compact dashboard on hover.
 
 ---
+![Git Koi Graph](./git-koi.svg)
 ![Snake Animation](https://raw.githubusercontent.com/joezhuo2/joezhuo2/output/github-contribution-grid-snake-dark.svg)
