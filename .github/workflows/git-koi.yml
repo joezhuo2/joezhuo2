@@ -1,35 +1,48 @@
-name: Generate Git-Koi Graph
+name: Update Profile Metrics
 
 on:
   schedule:
-    # Runs every day at midnight UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger from the Actions tab
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
-      contents: write # Grants permission to commit generated files back to the repository
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches full history for accurate contribution metrics
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=github_dark_dimmed
+          path: profile/stats.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
       - name: Generate Git-Koi Graph
         uses: yalongwastaken/git-koi@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_TOKEN }}
 
-      - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update git-koi graph [skip ci]"
-          file_pattern: "*.svg *.png"
+      - name: Commit and Push Cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg *.svg *.png || true
+          git commit -m "Update README cards and git-koi graph [skip ci]" || exit 0
+          git push
