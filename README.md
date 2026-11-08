@@ -2,7 +2,7 @@
 
 <img src="profile/stats.svg" align="right" alt="stats" width="400" />
 
-I am a Computer Engineering student at the University of Waterloo.
+I'm a Computer Engineering student at the University of Waterloo.
 > 🚀 **Focus:** AI/ML inference systems.\
 > 🛠️ **Projects:** Working with CUDA, C++, and C#.\
 > ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
