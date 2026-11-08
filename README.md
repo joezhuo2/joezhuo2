@@ -1,6 +1,8 @@
+## Hi there! 👋 I'm Joe
+
 <img src="profile/stats.svg" align="right" alt="stats" width="400" />
 
-Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Waterloo.
+I am a Computer Engineering student at the University of Waterloo.
 > 🚀 **Focus:** AI/ML inference systems.\
 > 🛠️ **Projects:** Working with CUDA, C++, and C#.\
 > ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
