@@ -3,8 +3,8 @@
 <img src="profile/stats.svg" align="right" alt="stats" width="400" />
 
 I'm a Computer Engineering student at the University of Waterloo.
-> 🚀 **Focus:** AI/ML inference systems.\
-> 🛠️ **Projects:** Working with CUDA, C++, and C#.\
+> 🚀 **Focus:** AI inference systems.\
+> 🛠️ **Projects:** Working with CUDA, C++, Python, and C#.\
 > ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
 
 <br clear="right" />
