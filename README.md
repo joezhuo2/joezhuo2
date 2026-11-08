@@ -16,7 +16,6 @@ I'm a Computer Engineering student at the University of Waterloo.
 ### Featured Projects
 
 - 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
-- 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight system tray stock ticker with a chart window and a global hotkey.
 
 <br clear="left" />
 
@@ -24,11 +23,12 @@ I'm a Computer Engineering student at the University of Waterloo.
 
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
 - 🛠️ [**ObjectPoolLinter (v2.0.0)**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
+- 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight system tray stock ticker with a chart window and a global hotkey.
 - ⚔️ [**Anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based RPG featuring custom projectiles and state-driven enemy AI.
 - ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard with many quality of life features.
 - 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, dynamic island styled system monitor that expands into a compact dashboard on hover.
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): A desktop pet that monitors your Claude Code sessions and alerts you to approvals and completed tasks.
-- ⚽ [**money-makers (Microsoft hackathon entry)**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
+- ⚽ [**money-makers**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
 - 🔬 [**Elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring, gait forecasting, and AI physician reports.
 - 🎯 [**delegate-skills**](https://github.com/joezhuo2/delegate-skills): Subagent routing across multiple AI providers for Claude Code.
 - ⚙️ [**gearshift**](https://github.com/joezhuo2/gearshift): Background workflow manager and dynamic model router for Claude Code CLI.
