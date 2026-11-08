@@ -29,6 +29,7 @@ I'm a Computer Engineering student at the University of Waterloo.
 - 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, dynamic island styled system monitor that expands into a compact dashboard on hover.
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): A desktop pet that monitors your Claude Code sessions and alerts you to approvals and completed tasks.
 - ⚽ [**money-makers (Microsoft hackathon entry)**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
+- 🔬 [**Elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring, gait forecasting, and AI physician reports.
 - 🎯 [**delegate-skills**](https://github.com/joezhuo2/delegate-skills): Subagent routing across multiple AI providers for Claude Code.
 - ⚙️ [**gearshift**](https://github.com/joezhuo2/gearshift): Background workflow manager and dynamic model router for Claude Code CLI.
 - 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top desktop companion tracking active Claude Code CLI sessions.
