@@ -21,7 +21,7 @@ Hi there! 👋 I'm Joe, a Computer Engineering student at the University of Wate
 ## Other Projects
 
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
-- 🛠️ [**ObjectPoolLinter (v2.0.0)**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code. [source](https://github.com/joezhuo2/ObjectPoolLinter)
+- 🛠️ [**ObjectPoolLinter (v2.0.0)**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
 - ⚔️ [**Anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based RPG featuring custom projectiles and state-driven enemy AI.
 - ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard with many quality of life features.
 - 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, dynamic island styled system monitor that expands into a compact dashboard on hover.
