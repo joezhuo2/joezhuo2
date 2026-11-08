@@ -10,7 +10,7 @@ I'm a Computer Engineering student at the University of Waterloo.
 <br clear="right" />
 
 <div align="left">
-  <img src="koi/koi.gif" alt="My Git Koi" width="300" align="left" style="margin-right: 15px;">
+  <img src="koi/koi.gif" alt="My Git Koi" width="350" align="left" style="margin-right: 15px;">
 </div>
 
 ### Featured Projects
