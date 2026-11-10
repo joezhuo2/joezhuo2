@@ -22,20 +22,20 @@ I'm a Computer Engineering student at the University of Waterloo.
 ## Other Projects
 
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
-- 🛠️ [**ObjectPoolLinter (v2.0.0)**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
+- 🛠️ [**ObjectPoolLinter**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight system tray stock ticker and analyzer.
-- ⚔️ [**Anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based RPG featuring custom projectiles and state-driven enemy AI.
+- ⚔️ [**anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based RPG featuring custom projectiles and state-driven enemy AI.
 - ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard with many quality of life features.
-- 🛰️ [**Omniscience**](https://github.com/joezhuo2/omniscience): A lightweight, dynamic island styled system monitor that expands into a compact dashboard on hover.
+- 🛰️ [**omniscience**](https://github.com/joezhuo2/omniscience): A lightweight, dynamic island styled system monitor that expands into a compact dashboard on hover.
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): A desktop pet that monitors your Claude Code sessions and alerts you to approvals and completed tasks.
 - ⚽ [**money-makers**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
-- 🔬 [**Elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring, gait forecasting, and AI physician reports.
+- 🔬 [**elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring, gait forecasting, and AI physician reports.
 - 🔇 [**stop-yap**](https://github.com/joezhuo2/stop-yap): A Claude Code plugin that stops Claude from over-explaining.
 - 🎯 [**delegate-skills**](https://github.com/joezhuo2/delegate-skills): Subagent routing across multiple AI providers for Claude Code.
 - ⚙️ [**gearshift**](https://github.com/joezhuo2/gearshift): Background workflow manager and dynamic model router for Claude Code CLI.
 - 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top desktop companion tracking active Claude Code CLI sessions.
 - 📜 [**unity debug log viewer**](https://github.com/joezhuo2/unity-debug-log-viewer): Lightweight console utility for runtime Unity log inspection.
-- ♟️ [**Clashmate**](https://github.com/joezhuo2/Clashmate): Tactical Java chess variant engine featuring unique per-piece abilities.
-- 🛒 [**Supermarket Simulation**](https://github.com/joezhuo2/Supermarket-Simulation): Java simulation analyzing customer queue behavior and flow.
-- 🌿 [**Wynncraft Ingredient Tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for MMORPG drop yields and route optimization.
+- ♟️ [**clashmate**](https://github.com/joezhuo2/Clashmate): Tactical Java chess variant engine featuring unique per-piece abilities.
+- 🛒 [**supermarket simulation**](https://github.com/joezhuo2/Supermarket-Simulation): Java simulation analyzing customer queue behavior and flow.
+- 🌿 [**Wynncraft ingredient tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for MMORPG drop yields and route optimization.
 
