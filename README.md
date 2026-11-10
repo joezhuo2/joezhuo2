@@ -26,10 +26,11 @@ I'm a Computer Engineering student at the University of Waterloo.
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight system tray stock ticker with a chart window and a global hotkey.
 - ⚔️ [**Anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based RPG featuring custom projectiles and state-driven enemy AI.
 - ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard with many quality of life features.
-- 🛰️ [Omniscience](https://github.com/joezhuo2/omniscience): A lightweight, dynamic island styled system monitor that expands into a compact dashboard on hover.
+- 🛰️ [**Omniscience**](https://github.com/joezhuo2/omniscience): A lightweight, dynamic island styled system monitor that expands into a compact dashboard on hover.
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): A desktop pet that monitors your Claude Code sessions and alerts you to approvals and completed tasks.
 - ⚽ [**money-makers**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
 - 🔬 [**Elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring, gait forecasting, and AI physician reports.
+- 🔇 [**stop-yap**](https://github.com/joezhuo2/stop-yap): A Claude Code plugin that stops Claude from over-explaining.
 - 🎯 [**delegate-skills**](https://github.com/joezhuo2/delegate-skills): Subagent routing across multiple AI providers for Claude Code.
 - ⚙️ [**gearshift**](https://github.com/joezhuo2/gearshift): Background workflow manager and dynamic model router for Claude Code CLI.
 - 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top desktop companion tracking active Claude Code CLI sessions.
