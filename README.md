@@ -10,17 +10,14 @@ I'm a Computer Engineering student at the University of Waterloo.
 <br clear="right" />
 
 <div align="left">
-  <img src="koi/koi.gif" alt="My Git Koi" width="400" align="left" style="margin-right: 15px;">
+  <img src="koi/koi.gif" alt="My Git Koi" width="800" align="left" style="margin-right: 15px;">
 </div>
-
-### Featured Projects
-
-- 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
 
 <br clear="left" />
 
-## Other Projects
+## My Projects
 
+- 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
 - 🛠️ [**ObjectPoolLinter**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight system tray stock ticker and analyzer.
