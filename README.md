@@ -9,11 +9,11 @@ I'm a Computer Engineering student at the University of Waterloo.
 
 <br clear="right" />
 
-<div align="left">
-  <img src="koi/koi.gif" alt="My Git Koi" width="600" align="middle" style="margin-right: 15px;">
+<div align="center">
+  <img src="koi/koi.gif" alt="My Git Koi" width="600" align="center" style="margin-right: 15px;">
 </div>
 
-<br clear="left" />
+<br clear="center" />
 
 ## My Projects
 
