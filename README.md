@@ -7,8 +7,6 @@ I'm a Computer Engineering student at the University of Waterloo.
 > 🛠️ **Projects:** Working with CUDA, C++, Python, and C#.\
 > ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
 
----
-
 ## Featured Systems Projects
 - 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
