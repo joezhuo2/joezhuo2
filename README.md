@@ -14,6 +14,7 @@ Computer Engineering @ University of Waterloo | AI Inference & Systems
 
 <details>
 <summary><b>View More Projects (Dev Tools, Apps, Game Dev)</b></summary>
+  
 #### 🛠️ Developer Tools & CLI Extensions
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): Desktop pet monitoring Claude Code CLI sessions with task completion alerts.
 - 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top desktop companion tracking active Claude Code CLI sessions.
