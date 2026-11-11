@@ -2,9 +2,9 @@
 
 <img src="profile/stats.svg" align="right" alt="stats" width="400" />
 
-I'm a Computer Engineering student at the University of Waterloo.
-> 🚀 **Focus:** AI inference systems.\
-> 🛠️ **Projects:** Working with CUDA, C++, Python, and C#.\
+Computer Engineering @ University of Waterloo | AI Inference & Systems
+> 🚀 **Focus:** AI inference systems, Dev tools.\
+> 🛠️ **Stack:** C++, CUDA, Python, C#\
 > ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
 
 ## Featured Systems Projects
