@@ -28,6 +28,7 @@ I'm a Computer Engineering student at the University of Waterloo.
 - ⚽ [**money-makers**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
 - 🔬 [**elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring, gait forecasting, and AI physician reports.
 - 🔇 [**stop-yap**](https://github.com/joezhuo2/stop-yap): A Claude Code plugin that stops Claude from over-explaining.
+- ❓ [**interrogate-skill**](https://github.com/joezhuo2/interrogate-skill): Interactive question-prompting skill for Claude Code that extracts missing context before starting.
 - 🎯 [**delegate-skills**](https://github.com/joezhuo2/delegate-skills): Subagent routing across multiple AI providers for Claude Code.
 - ⚙️ [**gearshift**](https://github.com/joezhuo2/gearshift): Background workflow manager and dynamic model router for Claude Code CLI.
 - 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top desktop companion tracking active Claude Code CLI sessions.
