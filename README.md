@@ -4,7 +4,7 @@
 
 Computer Engineering @ University of Waterloo | AI Inference & Systems
 > 🚀 **Focus:** AI inference systems, Dev tools.\
-> 🛠️ **Stack:** C++, CUDA, Python, C#\
+> 🛠️ **Stack:** C++, CUDA, Python, C#, Java\
 > ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
 
 ## Featured Systems Projects
