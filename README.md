@@ -7,19 +7,16 @@ I'm a Computer Engineering student at the University of Waterloo.
 > 🛠️ **Projects:** Working with CUDA, C++, Python, and C#.\
 > ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
 
-<br clear="right" />
+---
 
-<div align="center">
-  <img src="koi/koi.gif" alt="My Git Koi" width="500" align="center" style="margin-right: 15px;">
-</div>
-
-<br clear="center" />
-
-## My Projects
-
+## Featured Systems Projects
 - 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
 - 🛠️ [**ObjectPoolLinter**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
+
+<details>
+<summary><b>View More Projects (Dev Tools, Apps, Game Dev)</b></summary>
+
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight system tray stock ticker and analyzer.
 - ⚔️ [**anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based RPG featuring custom projectiles and state-driven enemy AI.
 - ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard with many quality of life features.
@@ -37,3 +34,14 @@ I'm a Computer Engineering student at the University of Waterloo.
 - 🛒 [**supermarket simulation**](https://github.com/joezhuo2/Supermarket-Simulation): Java simulation analyzing customer queue behavior and flow.
 - 🌿 [**Wynncraft ingredient tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for MMORPG drop yields and route optimization.
 
+</details>
+
+---
+
+<br clear="right" />
+
+<div align="center">
+  <img src="koi/koi.gif" alt="My Git Koi" width="500" align="center" style="margin-right: 15px;">
+</div>
+
+<br clear="center" />
