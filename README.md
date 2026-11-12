@@ -19,8 +19,8 @@ Computer Engineering @ University of Waterloo | AI Inference & Systems
 #### 🛠️ Developer Tools & CLI Extensions
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): Desktop pet monitoring Claude Code CLI sessions with task completion alerts.
 - 🎯 [**delegate-skills**](https://github.com/joezhuo2/delegate-skills): Subagent routing across multiple AI providers for Claude Code.
-- ❓ [**interrogate-skill**](https://github.com/joezhuo2/interrogate-skill): Interactive prompt skill extracting missing context before agent execution.
 - 🔇 [**stop-yap**](https://github.com/joezhuo2/stop-yap): Claude Code plugin restricting verbosity and over-explaining.
+- ❓ [**interrogate-skill**](https://github.com/joezhuo2/interrogate-skill): Interactive prompt skill extracting missing context before agent execution.- 🎨 [**visual-pass-skill**](https://github.com/joezhuo2/visual-pass-skill): Claude Code plugin that makes Claude inspect the UI it just built or changed for errors and inconsistencies.
 - 📜 [**unity debug log viewer**](https://github.com/joezhuo2/unity-debug-log-viewer): Lightweight console utility for runtime Unity log inspection.
 
 #### 📈 Applications & Systems
