@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Joe Zhuo&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 33, Total Commits  : 4615, Total PRs: 557, Total Issues: 337, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 33, Total Commits  : 4616, Total PRs: 557, Total Issues: 337, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.65153185825555;
+        stroke-dashoffset: 78.65034742625073;
       }
     }
   
