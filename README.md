@@ -7,8 +7,9 @@ Computer Engineering @ University of Waterloo | AI Inference & Systems
 > 🛠️ **Stack:** C++, CUDA, Python, C#, Java\
 > ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
 
-## Featured Systems Projects
+## Featured Projects
 - 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
+- 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight system tray stock ticker and market analyzer.
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
 - 🛠️ [**ObjectPoolLinter**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
 
@@ -17,7 +18,6 @@ Computer Engineering @ University of Waterloo | AI Inference & Systems
   
 #### 🛠️ Developer Tools & CLI Extensions
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): Desktop pet monitoring Claude Code CLI sessions with task completion alerts.
-- 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top desktop companion tracking active Claude Code CLI sessions.
 - 🎯 [**delegate-skills**](https://github.com/joezhuo2/delegate-skills): Subagent routing across multiple AI providers for Claude Code.
 - ❓ [**interrogate-skill**](https://github.com/joezhuo2/interrogate-skill): Interactive prompt skill extracting missing context before agent execution.
 - 🔇 [**stop-yap**](https://github.com/joezhuo2/stop-yap): Claude Code plugin restricting verbosity and over-explaining.
@@ -26,8 +26,8 @@ Computer Engineering @ University of Waterloo | AI Inference & Systems
 #### 📈 Applications & Systems
 - 🛰️ [**omniscience**](https://github.com/joezhuo2/omniscience): Dynamic-island styled system monitor expanding into a compact dashboard.
 - ⚡ [**CrystalOS**](https://github.com/joezhuo2/crystal-os): Personal productivity dashboard featuring modular workflow widgets.
-- 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight system tray stock ticker and market analyzer.
 - ⚽ [**money-makers**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
+- 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top desktop companion tracking active Claude Code CLI sessions.
 - 🔬 [**elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring and gait forecasting.
 
 #### 🎮 Game Dev & Simulations
