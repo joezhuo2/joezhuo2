@@ -17,6 +17,7 @@ Computer Engineering @ University of Waterloo | AI Inference & Systems
 <summary><b>View More Projects (Dev Tools, Apps, Game Dev)</b></summary>
   
 #### 🛠️ Developer Tools & CLI Extensions
+- 💎 [**crystal-design**](https://github.com/joezhuo2/crystal-design): Sleek, high-performance design component library for React.
 - 🦀 [**crawde**](https://github.com/joezhuo2/crawde): Desktop pet monitoring Claude Code CLI sessions with task completion alerts.
 - 🎯 [**delegate-skills**](https://github.com/joezhuo2/delegate-skills): Subagent routing across multiple AI providers for Claude Code.
 - 🔇 [**stop-yap**](https://github.com/joezhuo2/stop-yap): Claude Code plugin restricting verbosity and over-explaining.
