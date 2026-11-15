@@ -3,9 +3,9 @@
 <img src="profile/stats.svg" align="right" alt="stats" width="400" />
 
 Computer Engineering @ University of Waterloo | AI Inference & Systems
-> 🚀 **Focus:** AI inference systems, Dev tools.\
+> 🚀 **Focus:** AI inference systems & Dev tools.\
 > 🛠️ **Stack:** C++, CUDA, Python, C#, Java\
-> ⚡ **Interests:** High-performance computing, automation workflows, AI, startups, and game dev.
+> ⚡ **Interests:** High-performance computing, automation workflows, and game dev.
 
 ## Featured Projects
 - 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
