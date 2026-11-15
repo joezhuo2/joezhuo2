@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://joe-zhuo.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joezhuo08@gmail.com)
 
-> 🚀 **Focus:** AI inference systems & Dev tools.\
+> 🚀 **Focus:** AI inference systems, static analysis, Dev tools.\
 > 🛠️ **Core Stack:** C++, CUDA, Python, C#
 
 ## Featured Projects
