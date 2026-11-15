@@ -46,10 +46,8 @@
 
 ---
 
-<br clear="right" />
-
 <div align="center">
-  <img src="koi/koi.gif" alt="My Git Koi" width="350" align="center" style="margin-right: 15px;">
+  <img src="koi/koi.gif" alt="My Git Koi" width="380" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="output/bonsai-growth.gif" alt="My Git Bonsai" width="320" />
 </div>
-
-<br clear="center" />
