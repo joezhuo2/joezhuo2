@@ -2,10 +2,14 @@
 
 <img src="profile/stats.svg" align="right" alt="stats" width="400" />
 
-Computer Engineering @ University of Waterloo | AI Inference & Systems
+**Computer Engineering @ University of Waterloo** | AI Inference & Systems
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-zhuo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://joe-zhuo.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joezhuo08@gmail.com)
+
 > 🚀 **Focus:** AI inference systems & Dev tools.\
-> 🛠️ **Stack:** C++, CUDA, Python, C#, Java\
-> ⚡ **Interests:** High-performance computing, automation workflows, and game dev.
+> 🛠️ **Core Stack:** C++, CUDA, Python, C#
 
 ## Featured Projects
 - 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
@@ -45,7 +49,7 @@ Computer Engineering @ University of Waterloo | AI Inference & Systems
 <br clear="right" />
 
 <div align="center">
-  <img src="koi/koi.gif" alt="My Git Koi" width="500" align="center" style="margin-right: 15px;">
+  <img src="koi/koi.gif" alt="My Git Koi" width="350" align="center" style="margin-right: 15px;">
 </div>
 
 <br clear="center" />
