@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Joe
+<img src="profile/banner.gif" alt="Hi there! I'm Joe Zhuo" width="100%" />
 
 <img src="profile/stats.svg" align="right" alt="stats" width="400" />
 
