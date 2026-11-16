@@ -35,6 +35,7 @@
 - ⚽ [**money-makers**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
 - 🔄 [**crystal-converter**](https://github.com/joezhuo2/crystal-converter): Fast, lightweight utility for seamless file conversions and modifications.
 - 🏝️ [**islet**](https://github.com/joezhuo2/islet): Always-on-top desktop companion tracking active Claude Code CLI sessions.
+- 💼 [**ai-job-application**](https://github.com/joezhuo2/ai-job-application): Automated AI pipeline for tailoring resumes, cover letters, and job applications.
 - 🔬 [**elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring and gait forecasting.
 
 #### 🎮 Game Dev & Simulations
