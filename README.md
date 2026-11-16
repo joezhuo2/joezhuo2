@@ -9,7 +9,8 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joezhuo08@gmail.com)
 
 > 🚀 **Focus:** AI inference systems, static analysis, Dev tools.\
-> 🛠️ **Core Stack:** C++, CUDA, Python, C#
+> 🛠️ **Core Stack:** C++, CUDA, Python, C#\
+> 🎯 **Seeking:** 2027 SWE & AI Systems internships
 
 ## Featured Projects
 - 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
