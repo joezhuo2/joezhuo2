@@ -1,5 +1,7 @@
 <img src="profile/banner.gif" alt="Hi there! I'm Joe Zhuo" width="100%" />
 
+---
+
 <img src="profile/stats.svg" align="right" alt="stats" width="400" />
 
 **Computer Engineering @ University of Waterloo** | AI Inference & Systems
