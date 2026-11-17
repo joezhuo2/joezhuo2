@@ -4,7 +4,7 @@
 
 <img src="profile/stats.svg" align="right" alt="stats" width="400" />
 
-**Computer Engineering @ University of Waterloo** | AI Inference & Systems
+**Computer Engineering @ uWaterloo** | AI Inference & Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-zhuo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://joe-zhuo.vercel.app/)
