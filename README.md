@@ -2,8 +2,6 @@
 
 ---
 
-<img src="profile/stats.svg" align="right" alt="stats" width="400" />
-
 **Computer Engineering @ uWaterloo** | AI Inference & Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-zhuo)
