@@ -9,6 +9,8 @@
 
 ---
 
+<img src="koi/koi.gif" alt="My Git Koi" width="200" align="right" />
+
 **Computer Engineering @ uWaterloo** | AI Inference & Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-zhuo)
@@ -18,6 +20,8 @@
 > 🚀 **Focus:** AI inference systems, static analysis, Dev tools.\
 > 🛠️ **Core Stack:** C++, CUDA, Python, C#\
 > 🎯 **Seeking:** 2027 SWE & AI Systems internships
+
+<br clear="right" />
 
 ## Featured Projects
 - [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine that runs 1.15–1.29× faster than llama.cpp on the same weights, decoding at 93% of GPU memory bandwidth (paged KV cache, continuous batching, CUDA Graphs).
@@ -51,9 +55,3 @@
 - [**Wynncraft ingredient tracker**](https://github.com/joezhuo2/ingredient-tracker): Web analytics tool for MMORPG drop yields and route optimization.
 
 </details>
-
----
-
-<div align="center">
-  <img src="koi/koi.gif" alt="My Git Koi" width="380" />
-</div>
