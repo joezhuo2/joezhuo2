@@ -46,7 +46,7 @@
 - [**money-makers**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
 - [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
 - [**crystal-converter**](https://github.com/joezhuo2/crystal-converter): Utility for converting and editing files.
-- [**elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring and gait forecasting.
+- [**elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring and gait forecasting. **1st place (general), BioHacks McMaster.**
 
 #### 🎮 Game Dev & Simulations
 - [**anamnesis**](https://github.com/joezhuo2/Anamnesis): Wave-based RPG with custom projectile physics and state-driven enemy AI.
