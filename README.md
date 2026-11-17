@@ -42,7 +42,6 @@
 - [**money-makers**](https://github.com/joezhuo2/microsoft-hackathon-inside-the-game): AI match intelligence platform generating real-time match insights.
 - [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
 - [**crystal-converter**](https://github.com/joezhuo2/crystal-converter): Utility for converting and editing files.
-- [**ai-job-application**](https://github.com/joezhuo2/ai-job-application): Automated AI pipeline for tailoring resumes, cover letters, and job applications.
 - [**elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring and gait forecasting.
 
 #### 🎮 Game Dev & Simulations
