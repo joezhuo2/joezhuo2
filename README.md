@@ -1,4 +1,11 @@
-<img src="profile/banner.gif" alt="Hi there! I'm Joe Zhuo" width="100%" />
+<a href="https://github.com/joezhuo2/LLM-Inference-Engine">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/banner-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="profile/banner-light.gif" />
+    <img src="profile/banner-dark.gif" alt="Joe Zhuo, C++ / CUDA inference" width="100%" />
+  </picture>
+</a>
+<sub>Real tokens decoded by my inference engine, one column per sequence in the batch</sub>
 
 ---
 

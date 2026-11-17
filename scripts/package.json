@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "banner": "bash banner.sh"
+  },
+  "dependencies": {
+    "puppeteer-core": "23.11.1"
+  }
+}
