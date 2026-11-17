@@ -22,6 +22,11 @@ jobs:
           body: white # Options: white, black, asagi, tea, gold, platinum
           output-dir: koi
 
+      - name: Crop koi to the fish
+        run: |
+          crop=$(ffmpeg -i koi/koi.gif -vf "format=rgba,alphaextract,cropdetect=limit=0.05:round=2:reset=0" -f null - 2>&1 | grep -o 'crop=[0-9:]*' | tail -1)
+          ffmpeg -y -i koi/koi.gif -filter_complex "$crop,split[a][b];[a]palettegen=reserve_transparent=1[p];[b][p]paletteuse" koi/koi-crop.gif
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
