@@ -20,10 +20,10 @@
 > 🎯 **Seeking:** 2027 SWE & AI Systems internships
 
 ## Featured Projects
-- 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine with a paged KV cache, fused kernels, CUDA Graphs, and continuous batching.
+- 🚀 [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine that runs 1.15–1.29× faster than llama.cpp on the same weights, decoding at 93% of GPU memory bandwidth (paged KV cache, continuous batching, CUDA Graphs).
 - 📈 [**tickr**](https://github.com/joezhuo2/tickr): Lightweight system tray stock ticker and market analyzer.
 - 🔬 [**Multi-POV Research War Room**](https://github.com/joezhuo2/htv-papier-challenge): Autonomous agentic autoresearch framework.
-- 🛠️ [**ObjectPoolLinter**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
+- 🛠️ [**ObjectPoolLinter**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code. ![NuGet downloads](https://img.shields.io/nuget/dt/ObjectPoolLinter?label=downloads&style=flat)
 
 <details>
 <summary><b>View More Projects (Dev Tools, Apps, Game Dev)</b></summary>
