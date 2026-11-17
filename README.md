@@ -9,7 +9,7 @@
 
 ---
 
-<img src="koi/koi.gif" alt="My Git Koi" width="200" align="right" />
+<img src="koi/koi.gif" alt="My Git Koi" width="300" align="right" />
 
 **Computer Engineering @ uWaterloo** | AI Inference & Systems
 
