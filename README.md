@@ -56,6 +56,4 @@
 
 <div align="center">
   <img src="koi/koi.gif" alt="My Git Koi" width="380" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="output/bonsai-growth.gif" alt="My Git Bonsai" width="400" />
 </div>

@@ -1,14 +1,7 @@
 name: bonsai
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - "output/**"
 
 permissions:
   contents: write
