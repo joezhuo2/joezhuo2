@@ -19,14 +19,14 @@
 
 > 🚀 **Focus:** AI inference systems, static analysis, Dev tools.\
 > 🛠️ **Core Stack:** C++, CUDA, Python, C#\
-> 🎯 **Seeking:** 2027 SWE & AI Systems internships
+> 🎯 **Seeking:** Summer 2027 SWE & AI Systems internships
 
 <br clear="right" />
 
 ## Featured Projects
 - [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine that runs 1.15–1.29× faster than llama.cpp on the same weights, decoding at 93% of GPU memory bandwidth (paged KV cache, continuous batching, CUDA Graphs).
-- [**tickr**](https://github.com/joezhuo2/tickr): Rust/Tauri/Svelte system tray stock ticker for Windows and macOS with a hotkey chart window.
-- [**ObjectPoolLinter**](https://www.nuget.org/packages/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
+- [**tickr**](https://github.com/joezhuo2/tickr): Cross-platform Rust/Tauri desktop stock ticker with system-tray integration, global hotkeys, and an on-demand chart window.
+- [**ObjectPoolLinter**](https://github.com/joezhuo2/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in hot path code.
 
 <details>
 <summary><b>View More Projects (Dev Tools, Apps, Game Dev)</b></summary>
