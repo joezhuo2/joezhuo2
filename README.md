@@ -5,7 +5,7 @@
     <img src="profile/banner-dark.gif" alt="Joe Zhuo, C++ / CUDA inference" width="100%" />
   </picture>
 </a>
-<sub><i>Real tokens decoded by my inference engine, one column per sequence in the batch</i></sub>
+<sub><i>Live batched token decoding from my custom C++/CUDA inference engine. Each column represents an independent sequence.</i></sub>
 
 ---
 
