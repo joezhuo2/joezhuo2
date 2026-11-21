@@ -27,6 +27,7 @@
 - [**LLM-Inference-Engine**](https://github.com/joezhuo2/LLM-Inference-Engine): C++/CUDA engine serving TinyLlama 1.1B on a laptop RTX 5060, [1.15–1.29× faster than llama.cpp](https://github.com/joezhuo2/LLM-Inference-Engine#results) on the same weights, decoding at 93% of GPU memory bandwidth at batch 1 (paged KV cache, continuous batching, CUDA Graphs).
 - [**ObjectPoolLinter**](https://github.com/joezhuo2/ObjectPoolLinter): C# Roslyn analyzer that detects heap allocations and object pool misuse in Unity hot paths, following helper calls up to three deep, with code fixes that rewrite them to pooled calls.
 - [**tickr**](https://github.com/joezhuo2/tickr): Cross-platform Rust/Tauri desktop stock ticker with system-tray integration, global hotkeys, and an on-demand chart window.
+- [**Halo**](https://github.com/joezhuo2/halo): Ultra-lightweight native code editor written in Rust with egui on OpenGL.
 
 #### 🏆 Hackathons
 - [**elevait**](https://github.com/joezhuo2/biohacks-mcmaster): Adaptive care dashboard for ALS foot drop monitoring and gait forecasting. **1st place (general), BioHacks McMaster 2026.**
