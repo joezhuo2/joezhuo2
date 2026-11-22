@@ -19,7 +19,7 @@
 
 > 🚀 **Focus:** AI inference systems, static analysis, dev tools.\
 > 🛠️ **Core Stack:** C++, CUDA, Python, C#\
-> 🎯 **Seeking:** Summer 2027 SWE & AI Systems internships
+> 🎯 **Seeking:** Summer 2027 SWE & AI Inference/Systems internships
 
 <br clear="right" />
 
